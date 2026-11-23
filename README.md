@@ -1,4 +1,4 @@
-# NodeJS Tarpit
+# NodeJS 
 
 An ExpressJS (tarpit) application using mongoDB.
 
